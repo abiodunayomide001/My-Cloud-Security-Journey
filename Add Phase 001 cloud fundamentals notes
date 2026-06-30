@@ -185,6 +185,14 @@ A firewall is a security system that **controls incoming and outgoing network tr
 
 ---
 
+## 📚 References
+
+- AWS Documentation
+- Microsoft Learn
+- Google Cloud Documentation
+
+---
+
 ## ✅ Summary
 
 | Topic | Key Takeaway |
@@ -198,14 +206,6 @@ A firewall is a security system that **controls incoming and outgoing network tr
 | IAM | Controls who accesses what — Authentication + Authorization |
 | Encryption | Converts data into unreadable format |
 | Firewalls | Gatekeepers that filter network traffic |
-
----
-
-## 📚 References
-
-- AWS Documentation
-- Microsoft Learn
-- Google Cloud Documentation
 
 ---
 
